@@ -116,10 +116,5 @@ Correr la clase `Main.java`. Verás en la consola la traza de la creación de ob
 ## 👤 Autor
 
 **Camila Bastian**
-*Estudiante de Programación / Ingeniería*
+*Desarrolladora de Software*
 
----
-
-```
-
-```
